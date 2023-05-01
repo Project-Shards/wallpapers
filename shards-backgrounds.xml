@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Shards Blob</name>
+    <filename>/usr/share/backgrounds/shards/shards-blob-light.svg</filename>
+    <filename-dark>/usr/share/backgrounds/shards/shards-blob.svg</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#241f31</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Shards Blob Light</name>
+    <filename>/usr/share/backgrounds/shards/shards-blob-light.svg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#241f31</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Shards Blob Dark</name>
+    <filename>/usr/share/backgrounds/shards/shards-blob.svg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#0B0021</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Shards Blob Vertical</name>
+    <filename>/usr/share/backgrounds/shards/shards-blob-vertical.png</filename>
+    <shade_type>solid</shade_type>
+    <pcolor>#0B0021</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Shards Blob Light Vertical</name>
+    <filename>/usr/share/backgrounds/shards/shards-blob-light-vertical.png</filename>
+    <shade_type>solid</shade_type>
+    <pcolor>#241f31</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+</wallpapers>
