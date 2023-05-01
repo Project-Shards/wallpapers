@@ -28,14 +28,14 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Shards Blob Vertical</name>
-    <filename>/usr/share/backgrounds/shards/shards-blob-vertical.png</filename>
+    <filename>/usr/share/backgrounds/shards/shards-blob-vertical.svg</filename>
     <shade_type>solid</shade_type>
     <pcolor>#0B0021</pcolor>
     <scolor>#000000</scolor>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Shards Blob Light Vertical</name>
-    <filename>/usr/share/backgrounds/shards/shards-blob-light-vertical.png</filename>
+    <filename>/usr/share/backgrounds/shards/shards-blob-light-vertical.svg</filename>
     <shade_type>solid</shade_type>
     <pcolor>#241f31</pcolor>
     <scolor>#000000</scolor>
