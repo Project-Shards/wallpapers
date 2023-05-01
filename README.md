@@ -12,5 +12,3 @@ The official Project Shards wallpapers.
 
 ## 📜 License
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-![](https://git.getcryst.al/crystal/misc/branding/-/raw/main/banners/README-banner.png)
